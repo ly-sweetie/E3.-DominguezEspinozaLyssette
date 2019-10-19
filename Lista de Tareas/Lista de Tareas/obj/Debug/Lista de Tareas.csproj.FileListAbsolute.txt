@@ -1,0 +1,7 @@
+C:\Users\lyss_\source\repos\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.exe.config
+C:\Users\lyss_\source\repos\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.exe
+C:\Users\lyss_\source\repos\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.pdb
+C:\Users\lyss_\source\repos\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.exe
+C:\Users\lyss_\source\repos\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.pdb
